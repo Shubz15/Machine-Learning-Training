@@ -25,4 +25,15 @@ This repository contains my **machine learning experiments and practice notebook
 
 ---
 
+## Experiments
+
+### 🔹 Experiment 1: NumPy, Pandas & Scikit-learn Basics
+
+This experiment covers:
+- NumPy operations (mean, sum, std, matrix)
+- Pandas DataFrame creation and analysis
+- Iris dataset exploration using Scikit-learn
+
+  ---
+
 ## 📁 Repository Structure
