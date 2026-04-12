@@ -35,5 +35,17 @@ This experiment covers:
 - Iris dataset exploration using Scikit-learn
 
   ---
+### 🔹 Experiment 2: Data Visualization using Matplotlib & Seaborn
 
+This experiment covers:
+- Data visualization using Matplotlib and Seaborn  
+- Titanic dataset analysis  
+- Bar chart for survival distribution  
+- Count plot for survival by gender  
+- Histogram for age distribution  
+- Scatter plot for Age vs Fare  
+- Boxplot for fare by passenger class  
+- Correlation heatmap for feature relationships  
+
+📄 [View Experiment](./Experiment-2/Experiment_2.pdf)
 ## 📁 Repository Structure
