@@ -47,5 +47,5 @@ This experiment covers:
 - Boxplot for fare by passenger class  
 - Correlation heatmap for feature relationships  
 
-📄 [View Experiment](./Experiment-2/Experiment_2.pdf)
+📄 [View Experiment](./Exp_2/Experiment_2.pdf)
 ## 📁 Repository Structure
