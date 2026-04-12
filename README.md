@@ -33,7 +33,8 @@ This experiment covers:
 - NumPy operations (mean, sum, std, matrix)
 - Pandas DataFrame creation and analysis
 - Iris dataset exploration using Scikit-learn
-
+  
+📄 [View Experiment](./Exp_1/Experiment_1.pdf)
   ---
 ### 🔹 Experiment 2: Data Visualization using Matplotlib & Seaborn
 
