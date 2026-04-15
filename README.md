@@ -51,3 +51,16 @@ This experiment covers:
 
 📄 [View Experiment](./Exp_2/Experiment_2.pdf)
 
+   ---
+### 🔹 Experiment 3: Data Preprocessing and Feature Engineering
+
+This experiment covers:
+- Handling missing values using mean imputation  
+- Removing duplicate records and irrelevant columns  
+- Encoding categorical variables using LabelEncoder  
+- Creating new features (Average Score & Result)  
+- Feature scaling using StandardScaler  
+- Preparing feature matrix (X) and target variable (y)  
+
+📄 [View Experiment](./Exp_3/Experiment_3.pdf)
+
