@@ -64,3 +64,16 @@ This experiment covers:
 
 📄 [View Experiment](./Exp_3/Experiment_3.pdf)
 
+   ---
+### 🔹 Experiment 4: Linear Regression for Score Prediction
+
+This experiment covers:
+- Data preprocessing and handling missing values  
+- Creating a new feature (Average Score)  
+- Applying Linear Regression model  
+- Predicting values based on input features  
+- Model evaluation using MAE and MSE  
+- Visualizing regression line using scatter plot  
+
+📄 [View Experiment](./Experiment-4/Experiment_4.pdf)
+
