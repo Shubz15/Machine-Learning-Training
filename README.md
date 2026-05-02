@@ -77,3 +77,18 @@ This experiment covers:
 
 📄 [View Experiment](./Experiment-4/Experiment_4.pdf)
 
+   ---
+ ### 🔹 Experiment 5: Logistic Regression with Model Evaluation & Visualization
+
+This experiment covers:
+- Implementing Logistic Regression for binary classification  
+- Preprocessing dataset (encoding categorical variables & removing unnecessary columns)  
+- Feature scaling using StandardScaler  
+- Splitting dataset into training and testing sets  
+- Model evaluation using accuracy score and confusion matrix  
+- Visualizing confusion matrix and model accuracy  
+- Comparing actual vs predicted values  
+- Visualizing prediction probabilities using histogram  
+- Understanding model behavior through graphical analysis  
+
+📄 [View Experiment](./Experiment-5/Experiment_5.pdf)
