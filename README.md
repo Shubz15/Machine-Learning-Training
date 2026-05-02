@@ -75,7 +75,7 @@ This experiment covers:
 - Model evaluation using MAE and MSE  
 - Visualizing regression line using scatter plot  
 
-📄 [View Experiment](./Experiment-4/Experiment_4.pdf)
+📄 [View Experiment](./Exp_4/Experiment_4.pdf)
 
    ---
  ### 🔹 Experiment 5: Logistic Regression with Model Evaluation & Visualization
@@ -91,4 +91,4 @@ This experiment covers:
 - Visualizing prediction probabilities using histogram  
 - Understanding model behavior through graphical analysis  
 
-📄 [View Experiment](./Experiment-5/Experiment_5.pdf)
+📄 [View Experiment](./Exp_5/Experiment_5.pdf)
