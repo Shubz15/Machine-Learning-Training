@@ -16,7 +16,7 @@ This repository contains my **machine learning experiments and practice notebook
 
 ## 🛠️ Technologies Used
 
-- Python 🐍
+- Python 
 - NumPy
 - Pandas
 - Matplotlib / Seaborn
