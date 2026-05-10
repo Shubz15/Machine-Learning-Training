@@ -92,3 +92,18 @@ This experiment covers:
 - Understanding model behavior through graphical analysis  
 
 📄 [View Experiment](./Exp_5/Experiment_5.pdf)
+
+   ---
+### 🔹 Experiment 6: Decision Tree and Random Forest Classifiers
+
+This experiment covers:
+- Understanding Decision Tree classification concepts  
+- Learning Gini Impurity and Entropy for data splitting  
+- Implementing Decision Tree using Gini and Entropy criteria  
+- Applying Random Forest (Ensemble Learning) for classification  
+- Comparing performance of Decision Tree and Random Forest models  
+- Training and testing models using train-test split  
+- Predicting loan approval status for new input data  
+- Evaluating model accuracy and comparing classification approaches  
+
+📄 [View Experiment](./Exp_6/Experiment_6.pdf)
