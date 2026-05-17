@@ -107,3 +107,18 @@ This experiment covers:
 - Evaluating model accuracy and comparing classification approaches  
 
 📄 [View Experiment](./Exp_6/Experiment_6.pdf)
+
+### 🔹 Experiment 7: K-Nearest Neighbours (KNN) for Loan Approval Classification
+
+This experiment covers:
+- Understanding the K-Nearest Neighbours (KNN) algorithm  
+- Implementing KNN for classification using Python  
+- Encoding categorical variables using LabelEncoder  
+- Applying feature scaling using StandardScaler  
+- Splitting dataset into training and testing sets  
+- Evaluating model performance using accuracy and classification report  
+- Visualizing classification using selected features  
+- Predicting loan approval status for new input data  
+- Visualizing new data points in feature space  
+
+📄 [View Experiment](./Exp_7/Experiment_7.pdf)
