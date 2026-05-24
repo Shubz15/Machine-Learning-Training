@@ -122,3 +122,20 @@ This experiment covers:
 - Visualizing new data points in feature space  
 
 📄 [View Experiment](./Exp_7/Experiment_7.pdf)
+ 
+   ---
+### 🔹 Experiment 8: Naive Bayes Classification for Mushroom Dataset
+
+This experiment covers:
+- Understanding the Naive Bayes classification algorithm  
+- Applying Bayes’ Theorem for probability-based prediction  
+- Implementing Categorical Naive Bayes using Python  
+- Encoding categorical features using LabelEncoder  
+- Splitting dataset into training and testing sets  
+- Training and evaluating a Naive Bayes classifier  
+- Measuring model performance using accuracy and classification report  
+- Predicting whether a mushroom is edible or poisonous  
+- Working with categorical datasets for classification tasks  
+
+📄 [View Experiment](./Exp_8/Experiment_8.pdf)
+
