@@ -139,3 +139,18 @@ This experiment covers:
 
 📄 [View Experiment](./Exp_8/Experiment_8.pdf)
 
+   ---
+### 🔹 Experiment 9: K-Means Clustering on Iris Dataset
+
+This experiment covers:
+- Understanding the concept of clustering in machine learning  
+- Implementing K-Means clustering using Python and Scikit-learn  
+- Applying the Elbow Method to determine the optimal number of clusters  
+- Calculating and analyzing WCSS (Within-Cluster Sum of Squares)  
+- Training a K-Means clustering model on the Iris dataset  
+- Assigning cluster labels to data points  
+- Visualizing clustered data using scatter plots  
+- Displaying and interpreting cluster centroids  
+- Understanding unsupervised learning techniques for pattern recognition  
+
+📄 [View Experiment](./Exp_9/Experiment_9.pdf)
