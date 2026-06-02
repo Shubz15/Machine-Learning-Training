@@ -154,3 +154,20 @@ This experiment covers:
 - Understanding unsupervised learning techniques for pattern recognition  
 
 📄 [View Experiment](./Exp_9/Experiment_9.pdf)
+
+   ---
+   ### 🔹 Experiment 10: Natural Language Processing (NLP) and Text Classification
+
+This experiment covers:
+- Understanding Natural Language Processing (NLP) concepts
+- Text preprocessing using tokenization, stopword removal, and stemming
+- Creating and preparing a text dataset for sentiment analysis
+- Converting text into numerical features using TF-IDF and Count Vectorization
+- Splitting data into training and testing sets
+- Training a machine learning model for text classification
+- Predicting sentiment (Positive / Negative) from input text
+- Evaluating model performance using accuracy and classification report
+- Testing the model on new user-provided sentences
+
+📄 [View Experiment](./Exp_10/Experiment_10.pdf)
+
